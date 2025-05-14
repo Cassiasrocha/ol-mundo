@@ -1,0 +1,17 @@
+    h2{
+        color:rgb(242, 255, 127);
+    }
+
+    body{
+        background-color:rgb(0, 0, 0);
+        color:rgb(250, 241, 215);
+        font-family: Roboto;
+        text-align: center;
+    
+    } 
+    header{
+        border-bottom: 1px solid grey;
+    }
+    footer{
+        border-top;1px grey:
+    }
